@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Banking  App UI",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a user freindly banking app using HTML,css,javascript",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://bankingappjs.netlify.app/",
+    "source": "https://github.com/rohan22456/BankingApp"
   },
   {
-    "title": "Project B",
+    "title": "Linkedin Clone",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Clone of Linkedin landing page. and also made it responsive",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://lnkdcloneui.netlify.app/",
+    "source": "https://github.com/rohan22456/FrontEndCompletedProjects/tree/main/LinkedinClone"
   },
-  {
-    "title": "Project C",
+ {
+    "title": "E-commerse landing page Clone",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Clone of flipkart landing page. ",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://lnkdcloneui.netlify.app/",
+    "source": "https://github.com/rohan22456/FrontEndCompletedProjects/tree/main/LinkedinClone"
   }
 ]

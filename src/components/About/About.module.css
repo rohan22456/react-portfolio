@@ -38,6 +38,7 @@
 
 .aboutItem {
   display: flex;
+  border : 1px solid rgba(255, 255, 255, 0.266);
   flex-direction: row;
   align-items: center;
   border-radius: 20px;

@@ -10,7 +10,7 @@ function App() {
   return (
     <div className={styles.App}>
       <Navbar />
-      <Hero />
+      <Hero />       {/* experience */}
       <About />
       <Experience />
       <Projects />
